@@ -140,6 +140,7 @@ if __name__ == '__main__':
 #     [Input('update-button', 'n_clicks')],
 #     [dash.dependencies.State('location-input', 'value')]
 # )
+
 # def update_folium_map(n_clicks, location_input):
 #     # Parse the entered location (assuming input in the format "lat, lon")
 #     try:

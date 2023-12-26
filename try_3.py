@@ -31,3 +31,4 @@ def get_coordinates(location_name):
         return my_map
     else:
         print("Location not found.")
+        
